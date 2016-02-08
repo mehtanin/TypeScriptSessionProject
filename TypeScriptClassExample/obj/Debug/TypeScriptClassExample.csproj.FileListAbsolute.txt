@@ -1,0 +1,6 @@
+E:\WorkPlace\TypeScriptClassExample\TypeScriptClassExample\bin\TypeScriptClassExample.dll.config
+E:\WorkPlace\TypeScriptClassExample\TypeScriptClassExample\bin\TypeScriptClassExample.dll
+E:\WorkPlace\TypeScriptClassExample\TypeScriptClassExample\bin\TypeScriptClassExample.pdb
+E:\WorkPlace\TypeScriptClassExample\TypeScriptClassExample\obj\Debug\TypeScriptClassExample.csprojResolveAssemblyReference.cache
+E:\WorkPlace\TypeScriptClassExample\TypeScriptClassExample\obj\Debug\TypeScriptClassExample.dll
+E:\WorkPlace\TypeScriptClassExample\TypeScriptClassExample\obj\Debug\TypeScriptClassExample.pdb
